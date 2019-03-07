@@ -8,3 +8,8 @@
 **doobie** is a pure functional JDBC layer for Scala.
 
 Please proceed to the [**microsite**](https://tpolecat.github.io/doobie/) for more information.
+
+
+#### Adopters
+
+Here's a (non-exhaustive) list of companies that use doobie in production. Don't see yours? [You can add it in a PR!](https://github.com/tpolecat/doobie/edit/master/README.md)
